@@ -13,6 +13,7 @@ public class Helloworld {
 		System.out.println("Hello, World!");
 		System.out.println("This is Chaya Berliner wishing you "A Freilichen Purim!!"");
 		System.out.println("This is E, wishing you a freilechen Purim.");
+		System.out.println("This is Goldy Frideman, wishing you Freilichen Purim!! ");
 >>>>>>> a634f5aa9d2299d280b3e01174b42248531e9f3b
 	}
 }
